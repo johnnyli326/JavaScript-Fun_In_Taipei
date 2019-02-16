@@ -2562,4 +2562,4 @@ for (let j = 0; j < hot.length; j++) {
       }(jQuery));
     }
   })(j);
-}
+};
