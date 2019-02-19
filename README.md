@@ -1,7 +1,7 @@
 # Javscript-Fun_In_Taipei
 
 ## DEMO
-[台北旅遊網](https://johnnyli326.github.io/Javascript-Fun_In_Taipei/)
+[台北旅遊網](https://johnnyli326.github.io/JavaScript-Fun_In_Taipei/)
 
 ## Development tool
 Vitual Studio Code
